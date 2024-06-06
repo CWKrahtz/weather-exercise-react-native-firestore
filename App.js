@@ -5,6 +5,8 @@ import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import AddScreen from './screens/AddScreen';
 import ReadingScreen from './screens/ReadingScreen';
 
+//Christian Krahtz - Clone
+
 const Stack = createNativeStackNavigator();
 
 export default function App() {
